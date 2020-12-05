@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Hang Liu's Homepage
+
+~~~
+{}{img_left}{photos/small.jpg}{alt text}{172px}{250px}
+Hang Liu, Ph.D. student \n 
+[https://www.ie.cuhk.edu.hk/main/index.shtml Department of Information Engineering] \n
+[https://www.cuhk.edu.hk/ The Chinese University of Hong Kong] \n
+Email: lh117@ie.cuhk.edu.hk \n
+Phone: \+852 5172 3765 \n
+\[[/CV.pdf CV]\] 
+\[[https://scholar.google.com/citations?user=n1tKLQcAAAAJ&hl=en Google Scholar]\]
+\[[https://github.com/liuhang1994 Github]\]
+\[[https://www.linkedin.com/in/hang-liu-77a9a9b3 LinkedIn]\]
+\n
+~~~
+
+== About me
+I received the B.Sc. degree in mathematics and information engineering from The Chinese University of Hong Kong, Hong Kong, in 2017, where I am currently pursuing the Ph.D. degree under the supervision of Prof. [https://staff.ie.cuhk.edu.hk/~yjzhang/ Angela Yingjun Zhang].
+~~~
+I am looking for postdoc positions in wireless communications.
+~~~
+
+== Research Interests 
+
+My research interests lie in statistical signal processing and machine learning in wireless communications, particularly
+
+- Massive MIMO;
+- Reconfigurable intelligent surface/intelligent reflecting surface;
+- Edge learning.
+
+[/publications.html Full list of publications].
+
+
+== News
+- \[Dec. 04, 2020\] Homepage is set up.
+
+
+
