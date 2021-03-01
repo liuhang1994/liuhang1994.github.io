@@ -2,13 +2,15 @@
 == Publications 
 For the latest publications, please see my [https://scholar.google.com/citations?user=n1tKLQcAAAAJ&hl=en Google Scholar Profile].
 
-== Preprints/Work in Progress
+== Preprints
+. *H. Liu*, X. Yuan, and Y.-J. A. Zhang. CSIT-free federated edge learning via reconfigurable intelligent surface. Submitted to /IEEE Wireless Communications Letters/.
 . *H. Liu*, X. Yuan, and Y.-J. A. Zhang. Reconfigurable intelligent surface enabled federated learning: A unified
 	communication-learning design approach. Submitted to /IEEE Transactions on Wireless Communications/.
 	\[[https://arxiv.org/abs/2011.10282 ArXiv]\]
-. *H. Liu*, X. Yuan, and Y.-J. A. Zhang, "PHY-Layer design challenges in reconfigurable intelligent surface aided 6G wireless networks", in /World's First Book on 6G Mobile Wireless Networks/, under review.
 . Z.-Q. He, *H. Liu*, X. Yuan, Y.-J. A. Zhang, and Y.-C. Liang. Semi-blind channel estimation for reconfigurable intelligent surface aided massive MIMO systems. Submitted to /IEEE Transactions on Signal Processing/.
 
+== Book Chapter
+. *H. Liu*, X. Yuan, and Y.-J. A. Zhang, "PHY-Layer design challenges in reconfigurable intelligent surface aided 6G wireless networks", in /6G Mobile Wireless Networks/, in preparation.
 
 == Journal Papers
 . *H. Liu*, X. Yuan, and Y.-J. A. Zhang. Matrix-calibration-based cascaded channel estimation for reconfigurable intelligent surface assisted multiuser MIMO. /IEEE Journal on Selected Areas in Communications/, 38(11):2621–2636, Nov. 2020. \[[https://ieeexplore.ieee.org/abstract/document/9133156 Link]\]\[[https://github.com/liuhang1994/Matrix-Calibration-Based-Cascaded-Channel-Estimation Code]\]
