@@ -2,9 +2,11 @@
 == Publications 
 For the latest publications, please see my [https://scholar.google.com/citations?user=n1tKLQcAAAAJ&hl=en Google Scholar Profile].
 
+({{<font color=darkred size=+0.5><b>}}*\**{{</b></font>}}: Corresponding author)
 == Preprints
-. {{<font color=darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, X. Yuan, and Y.-J. A. Zhang. CSIT-free federated edge learning via reconfigurable intelligent surface. Submitted to /IEEE Wireless Communications Letters/.
-. Z.-Q. He, {{<font color=Darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, X. Yuan, Y.-J. A. Zhang, and Y.-C. Liang. Semi-blind channel estimation for reconfigurable intelligent surface aided massive MIMO systems. Submitted to /IEEE Transactions on Signal Processing/.
+. Z. Lin, {{<font color=darkred size=+0.5><b>}}*H. Liu\**{{</b></font>}}, and Y.-J. A. Zhang. Relay-assisted cooperative federated learning, submitted to /IEEE Transactions on Wireless Communications/. \[[https://arxiv.org/abs/2107.09518 ArXiv]\]
+. {{<font color=darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, X. Yuan, and Y.-J. A. Zhang. CSIT-free federated edge learning via reconfigurable intelligent surface. Under minor revisions with /IEEE Wireless Communications Letters/.
+. Z.-Q. He, {{<font color=Darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, X. Yuan, Y.-J. A. Zhang, and Y.-C. Liang. Semi-blind channel estimation for reconfigurable intelligent surface aided massive MIMO systems. Under major revisions with /IEEE Transactions on Signal Processing/.
 
 == Book Chapter
 . {{<font color=Darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, X. Yuan, and Y.-J. A. Zhang, "PHY-Layer design challenges in reconfigurable intelligent surface aided 6G wireless networks", in /6G Mobile Wireless Networks/, edited by Y. Wu, S. Singh, T. Taleb, A. Roy, H.S. Dhillon, M.R. Kanagarathinam, and A. De, Springer, 2021.
@@ -12,7 +14,7 @@ For the latest publications, please see my [https://scholar.google.com/citations
 == Journal Papers
 . {{<font color=Darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, X. Yuan, and Y.-J. A. Zhang. Reconfigurable intelligent surface enabled federated learning: A unified
 	communication-learning design approach. /IEEE Transactions on Wireless Communications/, accepted, 2021.
-	\[[https://arxiv.org/abs/2011.10282 ArXiv Version]\]\[[https://github.com/liuhang1994/RIS-FL Code]\]
+	\[[https://ieeexplore.ieee.org/abstract/document/9451567/ Link]\]\[[https://github.com/liuhang1994/RIS-FL Code]\]
 . {{<font color=Darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, X. Yuan, and Y.-J. A. Zhang. Matrix-calibration-based cascaded channel estimation for reconfigurable intelligent surface assisted multiuser MIMO. /IEEE Journal on Selected Areas in Communications/, 38(11):2621–2636, Nov. 2020. \[[https://ieeexplore.ieee.org/abstract/document/9133156 Link]\]\[[https://github.com/liuhang1994/Matrix-Calibration-Based-Cascaded-Channel-Estimation Code]\]
 . {{<font color=Darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, X. Yuan, and Y.-J. A. Zhang. Statistical beamforming for FDD downlink massive MIMO via spatial information extraction and beam selection. /IEEE Transactions on Wireless Communications/, 19(7):4617–4631, Jul. 2020. \[[https://ieeexplore.ieee.org/abstract/document/9063659 Link]\]
 . {{<font color=Darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, X. Yuan, and Y.-J. A. Zhang. Super-resolution blind channel-and-signal estimation for massive MIMO with one-dimensional antenna array. /IEEE Transactions on Signal Processing/, 67(17):4433–4448, Sep. 2019. \[[https://ieeexplore.ieee.org/abstract/document/8764368 Link]\]
