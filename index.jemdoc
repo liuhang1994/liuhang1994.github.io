@@ -3,11 +3,13 @@
 
 ~~~
 {}{img_left}{photos/small.jpg}{alt text}{172px}{250px}
-Hang Liu, Ph.D. student \n 
-[https://www.ie.cuhk.edu.hk/main/index.shtml Department of Information Engineering] \n
-[https://www.cuhk.edu.hk/ The Chinese University of Hong Kong] \n
-Email: lh117@ie.cuhk.edu.hk \n
-Phone: \+852 5982 1957 \n
+*Hang Liu*\n
+Research Fellow \n 
+[https://www.eng.nus.edu.sg/ece/ Department of Electrical & Computer Engineering] \n
+[https://www.nus.edu.sg/ National University of Singapore] \n
+Email: hangliu@nus.edu.sg \n
+Phone: \+65 9866 9832 \n
+Address: Room E4-06-12, 4 Engineering Drive 3, Singapore 117583\n
 #\[[/CV.pdf CV]\] 
 \[[https://scholar.google.com/citations?user=n1tKLQcAAAAJ&hl=en Google Scholar]\]
 \[[https://github.com/liuhang1994 Github]\]
@@ -16,25 +18,26 @@ Phone: \+852 5982 1957 \n
 ~~~
 
 == About Me
-I received the B.Sc. and Ph.D. degrees (advisor: Prof. [https://staff.ie.cuhk.edu.hk/~yjzhang/ Angela Yingjun Zhang]) from The Chinese University of Hong Kong in 2017 and 2021, respectively.
+I am a Research Fellow with NUS (advisor: Prof. [https://www.ece.nus.edu.sg/stfpage/elezhang/ Rui Zhang]) since September 2021. I received the B.Sc. and Ph.D. degrees (advisor: Prof. [https://staff.ie.cuhk.edu.hk/~yjzhang/ Angela Yingjun Zhang]) from The Chinese University of Hong Kong in 2017 and 2021, respectively.
 #~~~
 #I am looking for postdoc positions in wireless communications.
 #~~~
 
 == Research Interests 
 
-My research interests lie in statistical signal processing and machine learning in wireless communications and networking, particularly in
+My research interests lie in statistical signal processing and optimization in wireless communications and networking, particularly in
 
 
-- Reconfigurable intelligent surface/intelligent reflecting surface;
-- Edge machine learning;
-- Massive MIMO.
+- Intelligent reflecting surface/Reconfigurable intelligent surface;
+- Wireless federated learning;
+- Multiuser MIMO/Massive MIMO.
 
 
 [/publications.html Full list of publications].
 
 
 == News
+- \[Spet. 9, 2021\] I joined Department of Electrical & Computer Engineering, National University of Singapore as a Research Fellow.
 - \[May 25, 2021\] I completed my thesis defense entitled "Reconfigurable intelligent surface empowered wireless communications".
 - \[Dec. 04, 2020\] Homepage was set up.
 
