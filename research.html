@@ -34,7 +34,7 @@ MathJax.Hub.Config({
 </div>
 <div class="infoblock">
 <div class="blockcontent">
-<p>Our research focuses on statistical signal processing and machine learning, with particular emphasis on their applications in wireless communications and networked systems. We aim to deepen the theoretical understanding and design algorithms that enhance efficiency and robustness in these systems.
+<p>Our research focuses on statistical signal processing and machine learning, with particular emphasis on their applications in wireless communications and cyber-physical networks. We aim to deepen the theoretical understanding and design algorithms that enhance efficiency and robustness in these systems.
 </p>
 <p>Currently, our work is centered on the following areas:
 </p>
@@ -42,14 +42,62 @@ MathJax.Hub.Config({
 <li><p>Network information security and privacy
 </p>
 </li>
-<li><p>Communication-efficient edge learning
+<li><p>Edge learning
 </p>
 </li>
-<li><p>Graph Signal Processing for network inference
+<li><p>Graph Signal Processing
+</p>
+</li>
+<li><p>Reinforcement learning for network control and resource allocation
 </p>
 </li>
 </ul>
 </div></div>
+<h2>Network information security and privacy for learning</h2>
+<p>Security threats and privacy leakage pose significant challenges when collecting networked data for machine learning, since users’ identities and sensitive local information can be inadvertently exposed during aggregation and model training. The highly interconnected nature of systems—ranging from IoT deployments and power grids to mobile and transportation networks—only amplifies these risks, making it difficult to provide strong privacy guarantees without degrading learning performance.
+</p>
+<p>Our research seeks rigorous theoretical frameworks that characterize security and privacy threats and quantify the sensitivity of mechine learning tasks to network information exposure. Building on this foundation, we design a suite of privacy‐preserving algorithms and end‐to‐end frameworks that protect user information at both the network and data levels. In particular, we leverage differential privacy, data augmentation, and related techniques to mitigate leakage to improve the trade-offs among privacy, utility, and learning efficiency in realistic networked environments.
+</p>
+<p>Related work:
+</p>
+<ol>
+<li><p><font color=darkred size=+0.5><b><b>H. Liu</b></b></font>, A. Scaglione, and S. Peisert. Graph-signal-to-graph matching for network de-anonymization attacks, <i>IEEE Transactions on Information Forensics and Security</i>, vol. 19, pp. 10043-10057, 2024.
+</p>
+</li>
+<li><p><font color=darkred size=+0.5><b><b>H. Liu</b></b></font>, J. Yan, and Y.-J. A. Zhang. Differentially private over-the-air federated learning over MIMO fading channels, <i>IEEE Transactions on Wireless Communications</i>, vol. 23, no. 8, pp. 8232-8247, Aug. 2024.
+</p>
+</li>
+</ol>
+<h2>Communication-efficient edge learning</h2>
+<p>Edge learning pushes machine-learning tasks out of the cloud and onto phones, wearables, vehicles, and IoT sensors, delivering real-time intelligence while keeping raw data local. In these mobile networks, however, bandwidth and battery are scarce: shipping full gradients or model parameters across wireless links quickly becomes the dominant bottleneck and can stall convergence.
+</p>
+<p>Our research addresses this challenge by developing novel algorithms and system designs that that slash communication costs without compromising accuracy or speed. We explore techniques such as learning-aware radio resource allocation and network planning, lightweight gradient compression, and device scheduling to enable scalable and efficient training across heterogeneous edge devices.
+</p>
+<p>Related work:
+</p>
+<ol>
+<li><p><font color=Darkred size=+0.5><b><b>H. Liu</b></b></font>, X. Yuan, and Y.-J. A. Zhang. Reconfigurable intelligent surface enabled federated learning: A unified communication-learning design approach, <i>IEEE Transactions on Wireless Communications</i>, vol. 20, no. 11, pp. 7595-7609, Nov. 2021.
+</p>
+</li>
+<li><p>Z. Lin, <font color=darkred size=+0.5><b><b>H. Liu</b></b></font>, and Y.-J. A. Zhang. CFLIT: Coexisting federated learning and information transfer, <i>IEEE Transactions on Wireless Communications</i>,  vol. 22, no. 11, pp. 8436-8453, Nov. 2023.
+</p>
+</li>
+</ol>
+<h2>Graph signal processing for network inference</h2>
+<p>Graph Signal Processing (GSP) extends classical signal processing tools to data that live on irregular domains, such as those generated over social, sensor, and traffic networks, by embedding signal values in the topology of a graph. Working in the graph spectral domain allows us to reveal dependencies and interaction patterns that conventional techniques miss.
+</p>
+<p>Our research develops GSP-based theory and algorithms for large-scale network analytics. We study how spectral features encode each node’s identifable information. The resulting signatures power fast detectors for structural privacy weaknesses and abnormal behaviors in cyber-physical systems.
+Futhermore, insights from GSP guide the design of graph neural networks with stronger transferability across topologies and greater interpretability of their predictions.
+</p>
+<p>Related work:
+</p>
+<ol>
+<li><p><font color=Darkred size=+0.5><b><b>H. Liu</b></b></font> and A. Scaglione. Shuffled Linear Regression via Spectral Matching, <i>ArXiv Preprint: 2410.00078</i>.
+</p>
+</li>
+<li><p><font color=darkred size=+0.5><b><b>H. Liu</b></b></font>, A. Scaglione, and H.-T. Wai. Blind graph matching using graph signals, <i>IEEE Transactions on Signal Processing</i>, vol. 72, pp. 1766-1781, 2024.</p>
+</li>
+</ol>
 </td>
 </tr>
 </table>
