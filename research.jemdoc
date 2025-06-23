@@ -1,0 +1,58 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+== Research 
+
+
+~~~
+Our research focuses on statistical signal processing and machine learning, with particular emphasis on their applications in wireless communications and cyber-physical networks. We aim to deepen the theoretical understanding and design algorithms that enhance efficiency and robustness in these systems.
+
+Currently, our work is centered on the following areas:
+
+- Network information security and privacy
+- Edge learning
+- Graph Signal Processing
+- Reinforcement learning for network control and resource allocation
+
+Check out the list of publications [/publications.html here].
+
+~~~
+
+== Network information security and privacy for learning
+
+#~~~
+#{}{img_center}{photos/P1.png}{alt text}{400px}
+#~~~
+
+
+Security threats and privacy leakage pose significant challenges when collecting networked data for machine learning, since users’ identities and sensitive local information can be inadvertently exposed during aggregation and model training. The highly interconnected nature of systems—ranging from IoT deployments and power grids to mobile and transportation networks—only amplifies these risks, making it difficult to provide strong privacy guarantees without degrading learning performance.
+
+Our research seeks rigorous theoretical frameworks that characterize security and privacy threats and quantify the sensitivity of mechine learning tasks to network information exposure. Building on this foundation, we design a suite of privacy‐preserving algorithms and end‐to‐end frameworks that protect user information at both the network and data levels. In particular, we leverage differential privacy, data augmentation, and related techniques to mitigate leakage to improve the trade-offs among privacy, utility, and learning efficiency in realistic networked environments.
+
+Related work:
+
+. {{<font color=darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, A. Scaglione, and S. Peisert. Graph-signal-to-graph matching for network de-anonymization attacks, /IEEE Transactions on Information Forensics and Security/, vol. 19, pp. 10043-10057, 2024.
+. {{<font color=darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, J. Yan, and Y.-J. A. Zhang. Differentially private over-the-air federated learning over MIMO fading channels, /IEEE Transactions on Wireless Communications/, vol. 23, no. 8, pp. 8232-8247, Aug. 2024.
+
+
+== Communication-efficient edge learning
+
+Edge learning pushes machine-learning tasks out of the cloud and onto phones, wearables, vehicles, and IoT sensors, delivering real-time intelligence while keeping raw data local. In these mobile networks, however, bandwidth and battery are scarce: shipping full gradients or model parameters across wireless links quickly becomes the dominant bottleneck and can stall convergence.
+
+Our research addresses this challenge by developing novel algorithms and system designs that that slash communication costs without compromising accuracy or speed. We explore techniques such as learning-aware radio resource allocation and network planning, lightweight gradient compression, and device scheduling to enable scalable and efficient training across heterogeneous edge devices.
+
+Related work:
+
+. {{<font color=Darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, X. Yuan, and Y.-J. A. Zhang. Reconfigurable intelligent surface enabled federated learning: A unified communication-learning design approach, /IEEE Transactions on Wireless Communications/, vol. 20, no. 11, pp. 7595-7609, Nov. 2021.
+. Z. Lin, {{<font color=darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, and Y.-J. A. Zhang. CFLIT: Coexisting federated learning and information transfer, /IEEE Transactions on Wireless Communications/,  vol. 22, no. 11, pp. 8436-8453, Nov. 2023.
+
+
+== Graph signal processing for network inference
+
+Graph Signal Processing (GSP) extends classical signal processing tools to data that live on irregular domains, such as those generated over social, sensor, and traffic networks, by embedding signal values in the topology of a graph. Working in the graph spectral domain allows us to reveal dependencies and interaction patterns that conventional techniques miss.
+
+Our research develops GSP-based theory and algorithms for large-scale network analytics. We study how spectral features encode each node’s identifable information. The resulting signatures power fast detectors for structural privacy weaknesses and abnormal behaviors in cyber-physical systems.
+Futhermore, insights from GSP guide the design of graph neural networks with stronger transferability across topologies and greater interpretability of their predictions.
+
+Related work:
+
+. {{<font color=Darkred size=+0.5><b>}}*H. Liu*{{</b></font>}} and A. Scaglione. Shuffled Linear Regression via Spectral Matching, /ArXiv Preprint: 2410.00078/.
+. {{<font color=darkred size=+0.5><b>}}*H. Liu*{{</b></font>}}, A. Scaglione, and H.-T. Wai. Blind graph matching using graph signals, /IEEE Transactions on Signal Processing/, vol. 72, pp. 1766-1781, 2024.
