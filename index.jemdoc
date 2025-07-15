@@ -2,13 +2,13 @@
 == Hang Liu's Homepage
 
 ~~~
-{}{img_left}{photos/small.jpg}{alt text}{172px}{250px}
+{}{img_left}{photos/photo2025.jpg}{alt text}{}{250px}
 *Hang Liu*\n
 Postdoctoral Associate \n 
 #Deptartment of Electrical and Computer Engineering, Cornell Tech \n
 # https://www.cornell.edu/ 
 Cornell University \n
-Email: liuhanglqe@gmail.com \n
+Email:  hl2382@cornell.edu; liuhanglqe@gmail.com \n
 Phone: \+1 9175738278 \n
 Address: 1 E Loop Rd, New York NY 10044 USA\n
 #\[[/CV.pdf CV]\] 
@@ -26,31 +26,32 @@ I am currently a Postdoctoral Associate with Cornell University. Previously, I r
 #
 #~~~
 
+~~~
+I will be joining the University of Macau as an Assistant Professor in Fall 2025. I am recruiting motivated Ph.D. students (starting Fall 2026) and visiting students interested in the intersection of statistical signal processing, machine learning, and wireless communications. Interested students are encouraged to contact me via email with their CV, transcript, and sample publications (if any).
+~~~
+
+
 == Research Interests 
 
 My research broadly encompasses *statistical signal processing and machine learning in wireless communications and cyber-physical networks*. Currently, I am interested in:
 
 
-- Security and privacy aware learning
+- Privacy aware learning
 - Edge learning
-- Graph signal processing and learning over graphs
+- Graph signal processing
 - Reinforcement learning for network control and resource allocation 
 
 [/publications.html Full list of publications].
 
 [/research.html Research page].
 
-~~~
-I will be joining the University of Macau as an Assistant Professor in Fall 2025. I am recruiting motivated Ph.D. students (starting Fall 2026) and visting students interested in statistical signal processing, machine learning, and wireless communicaitons. Interested students are encouraged to contact me via email with your CV, transcript, and sample publications (if any).
-
-
-~~~
 
 
 
-#== News
-#- \[01/2023\] I joined Cornell University as a Postdoctoral Associate.
-#- \[09/2021\] I joined Department of Electrical & Computer Engineering, National University of Singapore as a Research #Fellow.
+== News
+- \[07/2025\] One paper got accepted to IEEE Transactions on Signal Processing.
+- \[01/2023\] I joined Cornell University as a Postdoctoral Associate.
+#- \[09/2021\] I joined Department of Electrical & Computer Engineering, National University of Singapore as a Research Fellow.
 #- \[05/2021\] I completed my thesis defense entitled "Reconfigurable intelligent surface empowered wireless communications".
 #- \[12/2020\] Homepage was set up.
 
